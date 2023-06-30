@@ -52,8 +52,8 @@ menu:
     url:               /about/
   - title:             Computer Science
     url:               /cs/
-  - title:             Algorithm
-    url:               /al/
+#  - title:             Algorithm
+#    url:               /al/
   - title:             Coding Test
     url:               /ct/    
   - title:             Spring
