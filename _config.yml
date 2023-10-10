@@ -55,11 +55,13 @@ menu:
 #  - title:             Algorithm
 #    url:               /al/
   - title:             Coding Test
-    url:               /ct/    
+    url:               /ct/ 
+  - title:             error
+    url:               /err/       
   - title:             Spring
     url:               /spring/
-  - title:             Java
-    url:               /java/    
+#  - title:             Java
+#    url:               /java/    
 #  - title:             Example
 #    url:               /example/
 #  - title:             Documentation
