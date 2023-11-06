@@ -56,7 +56,7 @@ menu:
 #    url:               /al/
   - title:             Coding Test
     url:               /ct/ 
-  - title:             error
+  - title:             Error
     url:               /err/       
   - title:             Spring
     url:               /spring/
