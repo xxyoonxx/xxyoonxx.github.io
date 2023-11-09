@@ -55,9 +55,9 @@ menu:
 #  - title:             Algorithm
 #    url:               /al/
   - title:             Coding Test
-    url:               /ct/ 
+    url:               /ct/
   - title:             Error
-    url:               /err/       
+    url:               /err/
   - title:             Spring
     url:               /spring/
 #  - title:             Java
