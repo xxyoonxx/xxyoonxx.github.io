@@ -52,16 +52,16 @@ menu:
     url:               /about/
   - title:             Computer Science
     url:               /cs/
-#  - title:             Algorithm
-#    url:               /al/
   - title:             Coding Test
     url:               /ct/
-  - title:             Error
-    url:               /err/
   - title:             Spring
     url:               /spring/
-#  - title:             Java
-#    url:               /java/
+  - title:             Java
+    url:               /java/
+  - title:             Error
+    url:               /err/
+#  - title:             Kotlin
+#    url:               /kotlin/    
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
