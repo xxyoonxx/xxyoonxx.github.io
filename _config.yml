@@ -59,7 +59,7 @@ menu:
   - title:             Java
     url:               /java/
   - title:             Error
-    url:               /err/
+    url:               /error/
 #  - title:             Kotlin
 #    url:               /kotlin/    
 
