@@ -58,6 +58,8 @@ menu:
     url:               /spring/
   - title:             Java
     url:               /java/
+  - title:             Infra
+    url:               /infra/
   - title:             Error
     url:               /err/
 
