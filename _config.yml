@@ -24,8 +24,8 @@ title:                 200 OK
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
-#description:           >
-#  기록용 블로그입니다.
+description:           >
+  Study logs
 
 # A shorter description for the sidebar.
 #tagline:               Change `tagline` in `_config.yml`
