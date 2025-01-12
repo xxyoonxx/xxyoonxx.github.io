@@ -52,8 +52,8 @@ menu:
     url:               /about/
   - title:             Computer Science
     url:               /cs/
-  - title:             Coding Test
-    url:               /ct/
+#  - title:             Coding Test
+#    url:               /ct/
   - title:             Spring
     url:               /spring/
   - title:             Java
