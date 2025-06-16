@@ -58,8 +58,6 @@ menu:
     url:               /spring/
   - title:             Java
     url:               /java/
-  - title:             Book
-    url:               /book/
   - title:             Error
     url:               /err/
   - title:             Etc
